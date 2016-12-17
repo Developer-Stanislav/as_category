@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <AS_Cetrgory>
+            <active>true</active>
+            <codePool>local</codePool>
+        </AS_Cetrgory>
+    </modules>
+</config>
