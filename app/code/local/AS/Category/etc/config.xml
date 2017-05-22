@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <AS_Category>
+            <version>0.0.2</version>
+        </AS_Category>
+    </modules>
+</config>
